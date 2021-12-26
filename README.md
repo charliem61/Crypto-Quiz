@@ -1,7 +1,7 @@
 SHOW ME YOUR BIG DEV BRAIN (Code quiz)
 
 
-Repo Link: https://github.com/charliem61/       //CHANGE//
+Repo Link: https://github.com/charliem61/ShowMeYourBigDevBrain    //CHANGE//
 
 Live Url: https://github.com/charliem61/        //CHANGE THESE//
 
@@ -17,18 +17,20 @@ Problems Solved:
 
     A user will come to the page to simply test their knowledge of the prompted questions asked to the user. 
 
+    The questions are then judged against a answer rubric to then be graded and returned to user with answers correct with 10 being the max answers recieved. 
+
     ////TO ADD MORE PROBLEMS SOLVED UPON COMPLETION.////
 
-The Standout:
+The Standouts:
 
     ////CREATE GOOD QUESTIONS, APPLICABLE QUESTIONS APPLICABLE TO WHAT WE HAVE LEARNED////
     
 
 Challenges Faced:
-
+    Learning this new matierial, taking the extra time to go review this matirial learned. I still continue to struggle with javascript. Typing this now I enter this project ready to learn and challenge myself. I will return to complete this section upon completion. 
     ////TO ADD WHAT STUMPED ME////
 
-<img src="imgs/screencapture-127-0-0-1-5500-index-html-2021-12-20-18_27_54.png">
+<img src="">
 ////CHANGE THESE VVV ^^^^////
-<img src="imgs/screenshot.png">
+<img src="">
 

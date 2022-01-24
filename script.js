@@ -1,5 +1,7 @@
 const startButton = document.getElementById('startButton')
 const time = document.getElementById('time')
+const questionsElement = document.getElementById('questions')
+
 
 let setTime = 60
 let currentQuestion = 0
@@ -26,6 +28,14 @@ function timer (){
 }
 
 startButton.addEventListener('click',timer)
+
+function questions(data){
+    let questionBox = document.createElement('h2')
+    let currentQuestion = questions[data]
+    questionBox.innerHTML=currentQuestion["text"]
+    questionsElement.append(questionBox)
+}
+
 
 
 // shows the first question, and has buttons to choose an answer

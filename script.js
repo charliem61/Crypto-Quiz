@@ -93,10 +93,6 @@ var questions = [
     choices: ["China", "Japan", "Ukraine", "El Salvador"],
     correctAnswer: "El Salvador",
   },
-
-  //     {text:"Pick one of the 2 easiest platforms for a new crypto investor? (2 of 4 correct answers)", choices: ["Sushi Swap","Coinbase","Crypto.com","Robinhood"], correctAnswer: "Coinbase"},
-  //     {text:"Are you a crypto investor?", choices: ["yes","no"], correctAnswer: "yes", "no"},
-  //     {text:"Where is Snoop Dogg building Snoopland?", choices: ["Meta","Decentraland","Sandbox","Alice"], correctAnswer: "Sandbox"},
   //     {text:"Want to learn more about crypto?", choices: ["yes","no"], correctAnswer: "yes", "no"},
   // ];
   {
@@ -122,12 +118,33 @@ var questions = [
 },
 {
     question: ["Pick one of the 2 easiest platforms for a new crypto investor?",
+    
+    answers: [
+        {answer: "Sundae Swap" },
+        {answer: "Coinbase", correct: true },
+        {answer: "Crypto.com" },
+        {answer: "Robinhood" },
+    ],
+},
+{
+    question: [
+        question: ["Are you a crypto investor?",
         
-    {answer: "Sundae Swap" },
-    {answer: "Coinbase",  },
-    {answer: "Crypto.com" },
-    {answer: "Robinhood" },
+        answers: [
+            {answer: "Yes" },
+            {answer: "No"}
+        ],
+},
+{
+    question: "",
 
+    answers: [
+        { answer: "China", correct: true },
+        { answer: "North Korea" },
+        { answer: "United Kingdom" },
+        { answer: "US" },
+    ],
+},
 ];
 
 function timer() {

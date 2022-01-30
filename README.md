@@ -1,5 +1,4 @@
-SHOW ME YOUR BIG DEV BRAIN (Code quiz)
-
+Crypto Quiz
 
 Repo Link: https://github.com/charliem61/ShowMeYourBigDevBrain    //CHANGE//
 
@@ -9,9 +8,8 @@ Goal/Motivation:
 
     When the user logs onto the page, they will be presented with a series of quetions in the form of a quiz to test their coding knowledge.
 
-    Upon completion of the quiz they will recieve a score from the recording of their answers and graded against a 100% grading possiblility.
+    Upon completion of the quiz they will recieve a score from the recording of their answers at a 5 point value for each.
 
-    ////ADD MORE BASED ON WHAT YOU CAN ACHEIVE AND WHAT ENDS UP BEING THE POSSIBLITLY OF WHAT CAN TRULY BE COMPLETED////
 
 Problems Solved:
 
@@ -19,16 +17,12 @@ Problems Solved:
 
     The questions are then judged against a answer rubric to then be graded and returned to user with answers correct with 10 being the max answers recieved. 
 
-    ////TO ADD MORE PROBLEMS SOLVED UPON COMPLETION.////
-
 The Standouts:
 
-    ////CREATE GOOD QUESTIONS, APPLICABLE QUESTIONS APPLICABLE TO WHAT WE HAVE LEARNED////
+    I created a tough quiz I would say based on my love cryptocurrency, metaverses, and blockchain technology. I also prompted the user how and where to learn more about crypto upon completion of the quiz.
     
-
 Challenges Faced:
-    Learning this new matierial, taking the extra time to go review this matirial learned. I still continue to struggle with javascript. Typing this now I enter this project ready to learn and challenge myself. I will return to complete this section upon completion. 
-    ////TO ADD WHAT STUMPED ME////
+    Learning this new matierial, taking the extra time to go review this matierial learned. I still continue to struggle with javascript. Working with several different ways to enter question and tie answer data. 
 
 <img src="">
 ////CHANGE THESE VVV ^^^^////
